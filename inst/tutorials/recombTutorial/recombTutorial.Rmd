@@ -130,7 +130,7 @@ For this exercise, you will analyse how **recombination map lengths (in cM)** in
 
 **Q2a.** Form hypotheses for how you expect map length to vary with (a) Genome Size and (b) Haploid Chromosome Number. Give a brief explanation to justify each hypothesis (1-2 sentences each).
 
-**Q2b.** Use the functions above to test your two hypotheses in Animals and Plants separately, using the `group` argument. A code box is provided below. Write a short text outlining each model, results and interpretation. Include figures to support your findings. Which factor explains more variation in recombination map length in animals and plants? (~200 words).
+**Q2b.** Use the functions above to test your two hypotheses in Animals and Plants separately, using the `group` argument. A code box is provided below. Write a short text outlining each model, results and interpretation. Include figures to support your findings. Which factor explains more variation in recombination map length in animals and plants?
 
 ```{r run_regression3, exercise=TRUE, exercise.lines = 8}
 
