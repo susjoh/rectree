@@ -8,6 +8,7 @@ runtime: shiny_prerendered
 
 ```{r setup, include=FALSE}
 library(learnr)
+data("rec_rate")
 ```
 
 ## How and why does recombination vary across the tree of life?
